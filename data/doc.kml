@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">,
   <Document>
     <name>Chattanooga Area Water Trails</name>
-    <description><![CDATA[Comprehensive view of access points for Chattanooga area water trails.  Includes Points of Interest (POI) where services like camping, restaurants, and outfitters (rentals, shuttles, tours) can be found.  USGS river gauges are also shown. Some sightseeing opportunities are included. Suggestions and edits to this guide are welcome.  Contact Eric Fleming, 598eric@gmail.com for suggested edits, copy of data, or additional information.								<br><br>DISCLAIMER:  When paddling, be prepared for high or low water issues, wildlife, possible portages, blockages and current (strainers), and other challenges.  USGS river gauges are shown where available and can be used to check current conditions.  Everyone is responsible for their own safety.  Do not attempt a trip without the appropriate skills, equipment, and supplies.  River miles are approximate and measured from the Mouth of the river (indicated for all waterways).  Use River Miles data at various points along the same waterway to calculate approximate trip length for the planned paddle.  Subtract the River Miles values to determine the length of a trip.  		<br>]]></description>
+    <description><![CDATA[Comprehensive view of access points for Chattanooga area water trails.  Includes Points of Interest (POI) where services like camping, restaurants, and outfitters (rentals, shuttles, tours) can be found.  USGS river gauges are also shown. Some sightseeing opportunities are included. Suggestions and edits to this guide are welcome.  Contact Eric Fleming, 598eric@gmail.com for suggested edits, copy of data, or additional information.								<br><br>DISCLAIMER:Â  When paddling, be prepared for high or low water issues, wildlife, possible portages, blockages and current (strainers), and other challenges.  USGS river gauges are shown where available and can be used to check current conditions.  Everyone is responsible for their own safety.  Do not attempt a trip without the appropriate skills, equipment, and supplies.  River miles are approximate and measured from the Mouth of the river (indicated for all waterways).  Use River Miles data at various points along the same waterway to calculate approximate trip length for the planned paddle.  Subtract the River Miles values to determine the length of a trip.  		<br>]]></description>
     <Style id="icon-1502-000000-normal">
       <IconStyle>
         <scale>1</scale>
@@ -147,7 +147,13 @@
     
 <Folder>
 <name>Food and Convenience Services</name>
-
+<Placemark>
+<name>Dockside Caf Restaurant</name>
+<description><![CDATA[ID: 53<br>Waterway: Tennessee<br>City, State: Harrison, TN<br>GPS Coords: 35.1685, -85.1214<br>River Miles: 478.5<br>Details: Restaurant 423-344-9998]]></description>
+<styleUrl>#icon-1577-795548-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>53</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Harrison, TN</value></Data><Data name="GPS Coords"><value>35.1685, -85.1214</value></Data><Data name="River Miles"><value>478.5</value></Data><Data name="Details"><value>Restaurant 423-344-9998</value></Data></ExtendedData>
+<Point><coordinates>-84.9539,34.5179,0</coordinates></Point>
+</Placemark>
 </Folder>
     
 <Folder>
