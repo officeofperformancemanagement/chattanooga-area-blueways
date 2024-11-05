@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">,
+  <Document>
+    <name>Chattanooga Area Water Trails</name>
+    <description><![CDATA[Comprehensive view of access points for Chattanooga area water trails.  Includes Points of Interest (POI) where services like camping, restaurants, and outfitters (rentals, shuttles, tours) can be found.  USGS river gauges are also shown. Some sightseeing opportunities are included. Suggestions and edits to this guide are welcome.  Contact Eric Fleming, 598eric@gmail.com for suggested edits, copy of data, or additional information.								<br><br>DISCLAIMER:  When paddling, be prepared for high or low water issues, wildlife, possible portages, blockages and current (strainers), and other challenges.  USGS river gauges are shown where available and can be used to check current conditions.  Everyone is responsible for their own safety.  Do not attempt a trip without the appropriate skills, equipment, and supplies.  River miles are approximate and measured from the Mouth of the river (indicated for all waterways).  Use River Miles data at various points along the same waterway to calculate approximate trip length for the planned paddle.  Subtract the River Miles values to determine the length of a trip.  		<br>]]></description>
+    <Style id="icon-1502-000000-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-000000-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-000000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-000000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-000000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1535-9C27B0-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1536-F9A825-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1577-795548-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1765-0F9D58-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    
+<Folder>
+<name>Flatwater Access Ramps</name>
+<Placemark>
+<name>N Blythe Ferry</name>
+<description><![CDATA[ID: 13<br>Waterway: Tennessee<br>City, State: Dayton, TN<br>GPS Coords: 35.4146, -85.0116<br>River Miles: 499.5<br>Class I?: No<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: Yes]]></description>
+<styleUrl>#icon-1899-0288D1</styleUrl>
+<ExtendedData><Data name="ID"><value>13</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Dayton, TN</value></Data><Data name="GPS Coords"><value>35.4146, -85.0116</value></Data><Data name="River Miles"><value>499.5</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>Yes</value></Data></ExtendedData>
+<Point><coordinates>-84.9539,34.5179,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>S Blythe Ferry</name>
+<description><![CDATA[ID: 14<br>Waterway: Tennessee<br>City, State: Birchwood, TN<br>GPS Coords: 35.4095, -85.0088<br>River Miles: 499.5<br>Class I?: No<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: Yes]]></description>
+<styleUrl>#icon-1899-0288D1</styleUrl>
+<ExtendedData><Data name="ID"><value>14</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Birchwood, TN</value></Data><Data name="GPS Coords"><value>35.4095, -85.0088</value></Data><Data name="River Miles"><value>499.5</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>Yes</value></Data></ExtendedData>
+<Point><coordinates>-84.9539,34.5179,0</coordinates></Point>
+</Placemark>
+</Folder>
+    
+<Folder>
+<name>Class I Access Ramps</name>
+
+</Folder>
+    
+<Folder>
+<name>Camping Sites</name>
+
+</Folder>
+    
+<Folder>
+<name>Outfitters (Rentals, Shuttle, Tours)</name>
+
+</Folder>
+    
+<Folder>
+<name>Food and Convenience Services</name>
+
+</Folder>
+    
+<Folder>
+<name>Sightseeing Opportunities</name>
+
+</Folder>
+    
+<Folder>
+<name>USGS River Gauges</name>
+<Placemark>
+<name>USGS Gauge 3566535 at Thrasher Pike</name>
+<description><![CDATA[ID: 68<br>Waterway: North Chickamauga Creek<br>City, State: Hixson, TN<br>GPS Coords: 35.2108, -85.2146<br>Details: USGS 03566535]]></description>
+<styleUrl>#icon-1502-000000</styleUrl>
+<ExtendedData><Data name="ID"><value>68</value></Data><Data name="Waterway"><value>North Chickamauga Creek</value></Data><Data name="City, State"><value>Hixson, TN</value></Data><Data name="GPS Coords"><value>35.2108, -85.2146</value></Data><Data name="Details"><value>USGS 03566535</value></Data></ExtendedData>
+<Point><coordinates>-84.9539,34.5179,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>USGS Gauge 3566700</name>
+<description><![CDATA[ID: 85<br>Waterway: South Chickamauga Creek<br>City, State: Ringgold, GA<br>GPS Coords: 34.9191, -85.1260<br>Details: USGS 03566700]]></description>
+<styleUrl>#icon-1502-000000</styleUrl>
+<ExtendedData><Data name="ID"><value>85</value></Data><Data name="Waterway"><value>South Chickamauga Creek</value></Data><Data name="City, State"><value>Ringgold, GA</value></Data><Data name="GPS Coords"><value>34.9191, -85.1260</value></Data><Data name="Details"><value>USGS 03566700</value></Data></ExtendedData>
+<Point><coordinates>-84.9539,34.5179,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>USGS Gauge 3567500 near Airport</name>
+<description><![CDATA[ID: 90<br>Waterway: South Chickamauga Creek<br>City, State: Chattanooga, TN<br>GPS Coords: 35.0147, -85.2103<br>Details: USGS 03567500]]></description>
+<styleUrl>#icon-1502-000000</styleUrl>
+<ExtendedData><Data name="ID"><value>90</value></Data><Data name="Waterway"><value>South Chickamauga Creek</value></Data><Data name="City, State"><value>Chattanooga, TN</value></Data><Data name="GPS Coords"><value>35.0147, -85.2103</value></Data><Data name="Details"><value>USGS 03567500</value></Data></ExtendedData>
+<Point><coordinates>-84.9539,34.5179,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>USGS Gauge 3567340 at Dietz Rd</name>
+<description><![CDATA[ID: 107<br>Waterway: West Chickamauga Creek<br>City, State: Lakeview, GA<br>GPS Coords: 34.9576, -85.2054<br>Details: USGS 03567340]]></description>
+<styleUrl>#icon-1502-000000</styleUrl>
+<ExtendedData><Data name="ID"><value>107</value></Data><Data name="Waterway"><value>West Chickamauga Creek</value></Data><Data name="City, State"><value>Lakeview, GA</value></Data><Data name="GPS Coords"><value>34.9576, -85.2054</value></Data><Data name="Details"><value>USGS 03567340</value></Data></ExtendedData>
+<Point><coordinates>-84.9539,34.5179,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>USGS Gauge 3568400</name>
+<description><![CDATA[ID: 120<br>Waterway: Chattanooga Creek<br>City, State: Chattanooga, TN<br>GPS Coords: 34.9574, -85.3347<br>Details: USGS 03568400]]></description>
+<styleUrl>#icon-1502-000000</styleUrl>
+<ExtendedData><Data name="ID"><value>120</value></Data><Data name="Waterway"><value>Chattanooga Creek</value></Data><Data name="City, State"><value>Chattanooga, TN</value></Data><Data name="GPS Coords"><value>34.9574, -85.3347</value></Data><Data name="Details"><value>USGS 03568400</value></Data></ExtendedData>
+<Point><coordinates>-84.9539,34.5179,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>USGS Gauge 2384500</name>
+<description><![CDATA[ID: 233<br>Waterway: Conasauga<br>City, State: Eton, GA<br>GPS Coords: 34.8275, -84.8510<br>Details: USGS 02384500]]></description>
+<styleUrl>#icon-1502-000000</styleUrl>
+<ExtendedData><Data name="ID"><value>233</value></Data><Data name="Waterway"><value>Conasauga</value></Data><Data name="City, State"><value>Eton, GA</value></Data><Data name="GPS Coords"><value>34.8275, -84.8510</value></Data><Data name="Details"><value>USGS 02384500</value></Data></ExtendedData>
+<Point><coordinates>-84.9539,34.5179,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>USGS Gauge 2382500 at Carters Dam</name>
+<description><![CDATA[ID: 235<br>Waterway: Coosawattee<br>City, State: Chattsworth, GA<br>GPS Coords: 34.6039, -84.6958<br>Details: USGS 02382500]]></description>
+<styleUrl>#icon-1502-000000</styleUrl>
+<ExtendedData><Data name="ID"><value>235</value></Data><Data name="Waterway"><value>Coosawattee</value></Data><Data name="City, State"><value>Chattsworth, GA</value></Data><Data name="GPS Coords"><value>34.6039, -84.6958</value></Data><Data name="Details"><value>USGS 02382500</value></Data></ExtendedData>
+<Point><coordinates>-84.9539,34.5179,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>USGS Gauge 2387500</name>
+<description><![CDATA[ID: 247<br>Waterway: Oostanaula<br>City, State: Resaca, GA<br>GPS Coords: 34.5773, -84.9418<br>Details: USGS 02387500]]></description>
+<styleUrl>#icon-1502-000000</styleUrl>
+<ExtendedData><Data name="ID"><value>247</value></Data><Data name="Waterway"><value>Oostanaula</value></Data><Data name="City, State"><value>Resaca, GA</value></Data><Data name="GPS Coords"><value>34.5773, -84.9418</value></Data><Data name="Details"><value>USGS 02387500</value></Data></ExtendedData>
+<Point><coordinates>-84.9539,34.5179,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>USGS Gauge 2387520</name>
+<description><![CDATA[ID: 248<br>Waterway: Oostanaula<br>City, State: Calhoun, GA<br>GPS Coords: 34.5179, -84.9539<br>Details: USGS 02387520]]></description>
+<styleUrl>#icon-1502-000000</styleUrl>
+<ExtendedData><Data name="ID"><value>248</value></Data><Data name="Waterway"><value>Oostanaula</value></Data><Data name="City, State"><value>Calhoun, GA</value></Data><Data name="GPS Coords"><value>34.5179, -84.9539</value></Data><Data name="Details"><value>USGS 02387520</value></Data></ExtendedData>
+<Point><coordinates>-84.9539,34.5179,0</coordinates></Point>
+</Placemark>
+</Folder>
+  </Document>
+</kml>
