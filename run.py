@@ -3,15 +3,21 @@ import csv
 import json
 import io
 import os
-import requests
 import shutil
 import zipfile
+
+# from lxml import etree
+import requests
 
 url = "https://docs.google.com/spreadsheets/d/1KBG5nGxsBq-ivVje0_U3TOr1sf8dDKWSyBxJ2qq-Wh4/export?format=csv&gid=718331842"
 
 
 
 FIELDS = ['ID', 'Waterway', 'City, State', 'GPS Coords', 'River Miles', 'Class I?', 'Bathroom?', 'Camping?', 'Power Boats?', 'Details']
+
+# def prettyprint(source):
+#   element = etree.fromstring(source.encode())
+#   return etree.tostring(element, pretty_print=True).decode()
 
 def clean(text):
     return "".join([c for c in text if c in '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz,? -.']).strip()
@@ -42,7 +48,7 @@ def styleUrl(url):
   return f"<styleUrl>{url}</styleUrl>"
 
 def Point(longitude, latitude):
-  return f"<Point><coordinates>{row['Longitude']},{row['Latitude']},0</coordinates></Point>"
+  return f"<Point><coordinates>{longitude},{latitude},0</coordinates></Point>"
 
 def Placemark(row, fields, icon):
   return "<Placemark>\n" + "\n".join([
@@ -216,6 +222,9 @@ kml_output = f'''<?xml version="1.0" encoding="UTF-8"?>
 '''
 
 # print("kml_output", kml_output)
+
+# prettify xml
+# kml_output = prettyprint(kml_output)
 
 with open("./data/doc.kml", "w") as f:
   f.write(kml_output)
