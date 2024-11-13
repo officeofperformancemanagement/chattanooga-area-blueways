@@ -114,6 +114,30 @@
 <Folder>
 <name>Flatwater Access Ramps</name>
 <Placemark>
+<name>Goodfield Ramp</name>
+<description><![CDATA[ID: 1<br>Waterway: Tennessee<br>City, State: Decatur, TN<br>GPS Coords: 35.4974, -84.8527<br>River Miles: 514<br>Class I?: No<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: Yes<br>Details: ]]></description>
+<styleUrl>#icon-1899-0288D1</styleUrl>
+<ExtendedData><Data name="ID"><value>1</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Decatur, TN</value></Data><Data name="GPS Coords"><value>35.4974, -84.8527</value></Data><Data name="River Miles"><value>514</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>Yes</value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-84.8527,35.4974,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Cottonport Marina</name>
+<description><![CDATA[ID: 2<br>Waterway: Tennessee<br>City, State: Decatur, TN<br>GPS Coords: 35.4847, -84.8794<br>River Miles: 513<br>Class I?: No<br>Bathroom?: Yes<br>Camping?: Yes<br>Power Boats?: Yes<br>Details: Restaurant, 3 ramp fee]]></description>
+<styleUrl>#icon-1899-0288D1</styleUrl>
+<ExtendedData><Data name="ID"><value>2</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Decatur, TN</value></Data><Data name="GPS Coords"><value>35.4847, -84.8794</value></Data><Data name="River Miles"><value>513</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>Yes</value></Data><Data name="Camping?"><value>Yes</value></Data><Data name="Power Boats?"><value>Yes</value></Data><Data name="Details"><value>Restaurant, 3 ramp fee</value></Data></ExtendedData>
+<Point><coordinates>-84.8794,35.4847,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Cottonport WMA ramp</name>
+<description><![CDATA[ID: 3<br>Waterway: Tennessee<br>City, State: Decatur, TN<br>GPS Coords: 35.4885, -84.8819<br>River Miles: 513<br>Class I?: No<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: Yes<br>Details: ]]></description>
+<styleUrl>#icon-1899-0288D1</styleUrl>
+<ExtendedData><Data name="ID"><value>3</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Decatur, TN</value></Data><Data name="GPS Coords"><value>35.4885, -84.8819</value></Data><Data name="River Miles"><value>513</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>Yes</value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-84.8819,35.4885,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
 <name>Mud Creek</name>
 <description><![CDATA[ID: 4<br>Waterway: Mud Creek<br>City, State: Dayton, TN<br>GPS Coords: 35.4794, -84.9584<br>River Miles: 505<br>Class I?: No<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: Yes<br>Details: Ramp 0.7 mi up creek]]></description>
 <styleUrl>#icon-1899-0288D1</styleUrl>
@@ -578,6 +602,14 @@
 </Placemark>
 
 <Placemark>
+<name>Citco Creek Mouth</name>
+<description><![CDATA[ID: 96<br>Waterway: Citgo Creek<br>City, State: Chattanooga, TN<br>GPS Coords: 35.0540, -85.2888<br>River Miles: 465.2<br>Class I?: No<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: flatwater]]></description>
+<styleUrl>#icon-1899-0288D1</styleUrl>
+<ExtendedData><Data name="ID"><value>96</value></Data><Data name="Waterway"><value>Citgo Creek</value></Data><Data name="City, State"><value>Chattanooga, TN</value></Data><Data name="GPS Coords"><value>35.0540, -85.2888</value></Data><Data name="River Miles"><value>465.2</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value>flatwater</value></Data></ExtendedData>
+<Point><coordinates>-85.2888,35.0540,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
 <name>Coolidge Park Tremont Street</name>
 <description><![CDATA[ID: 113<br>Waterway: Tennessee<br>City, State: Chattanooga, TN<br>GPS Coords: 35.0599, -85.3062<br>River Miles: 464.2<br>Class I?: No<br>Bathroom?: Yes<br>Camping?: No<br>Power Boats?: No<br>Details: ]]></description>
 <styleUrl>#icon-1899-0288D1</styleUrl>
@@ -671,6 +703,22 @@
 <styleUrl>#icon-1899-0288D1</styleUrl>
 <ExtendedData><Data name="ID"><value>139</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Whitwell, TN</value></Data><Data name="GPS Coords"><value>35.0793, -85.5366</value></Data><Data name="River Miles"><value>433</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>Yes</value></Data><Data name="Details"><value></value></Data></ExtendedData>
 <Point><coordinates>-85.5366,35.0793,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Hales Bar Guild</name>
+<description><![CDATA[ID: 143<br>Waterway: Tennessee<br>City, State: Haletown, TN<br>GPS Coords: 35.0378, -85.5369<br>River Miles: 430.3<br>Class I?: No<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: Yes<br>Details: ]]></description>
+<styleUrl>#icon-1899-0288D1</styleUrl>
+<ExtendedData><Data name="ID"><value>143</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Haletown, TN</value></Data><Data name="GPS Coords"><value>35.0378, -85.5369</value></Data><Data name="River Miles"><value>430.3</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>Yes</value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.5369,35.0378,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>41 Bridge</name>
+<description><![CDATA[ID: 144<br>Waterway: Tennessee<br>City, State: Haletown, TN<br>GPS Coords: 35.0281, -85.5390<br>River Miles: 429.8<br>Class I?: No<br>Bathroom?: Yes<br>Camping?: No<br>Power Boats?: Yes<br>Details: ]]></description>
+<styleUrl>#icon-1899-0288D1</styleUrl>
+<ExtendedData><Data name="ID"><value>144</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Haletown, TN</value></Data><Data name="GPS Coords"><value>35.0281, -85.5390</value></Data><Data name="River Miles"><value>429.8</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>Yes</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>Yes</value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.5390,35.0281,0</coordinates></Point>
 </Placemark>
 
 <Placemark>
@@ -882,6 +930,14 @@
 </Placemark>
 
 <Placemark>
+<name>Calhoun Greenway mouth</name>
+<description><![CDATA[ID: 197<br>Waterway: Hiwassee<br>City, State: Charleston, TN<br>GPS Coords: 35.2901, -84.7545<br>River Miles: 19.1<br>Class I?: No<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: Tunnels and lake on short slough, Access from Charleston ramp]]></description>
+<styleUrl>#icon-1899-0288D1</styleUrl>
+<ExtendedData><Data name="ID"><value>197</value></Data><Data name="Waterway"><value>Hiwassee</value></Data><Data name="City, State"><value>Charleston, TN</value></Data><Data name="GPS Coords"><value>35.2901, -84.7545</value></Data><Data name="River Miles"><value>19.1</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value>Tunnels and lake on short slough, Access from Charleston ramp</value></Data></ExtendedData>
+<Point><coordinates>-84.7545,35.2901,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
 <name>Lamontville Rd</name>
 <description><![CDATA[ID: 198<br>Waterway: North Mouse Creek<br>City, State: Calhoun, TN<br>GPS Coords: 35.3278, -84.7895<br>River Miles: 1<br>Class I?: No<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: Yes<br>Details: ]]></description>
 <styleUrl>#icon-1899-0288D1</styleUrl>
@@ -935,6 +991,22 @@
 <styleUrl>#icon-1899-0288D1</styleUrl>
 <ExtendedData><Data name="ID"><value>205</value></Data><Data name="Waterway"><value>Rogers Creek</value></Data><Data name="City, State"><value>Calhoun, TN</value></Data><Data name="GPS Coords"><value>35.3400, -84.8365</value></Data><Data name="River Miles"><value>13</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
 <Point><coordinates>-84.8365,35.3400,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Grays Landing at Candies Creek</name>
+<description><![CDATA[ID: 206<br>Waterway: Hiwassee<br>City, State: Georgetown, TN<br>GPS Coords: 35.3423, -84.8504<br>River Miles: 11.5<br>Class I?: No<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: Yes<br>Details: ]]></description>
+<styleUrl>#icon-1899-0288D1</styleUrl>
+<ExtendedData><Data name="ID"><value>206</value></Data><Data name="Waterway"><value>Hiwassee</value></Data><Data name="City, State"><value>Georgetown, TN</value></Data><Data name="GPS Coords"><value>35.3423, -84.8504</value></Data><Data name="River Miles"><value>11.5</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>Yes</value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-84.8504,35.3423,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Price Creek Ramp</name>
+<description><![CDATA[ID: 207<br>Waterway: Hiwassee<br>City, State: Decatur, TN<br>GPS Coords: 35.3592, -84.8605<br>River Miles: 10.3<br>Class I?: No<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: Yes<br>Details: ]]></description>
+<styleUrl>#icon-1899-0288D1</styleUrl>
+<ExtendedData><Data name="ID"><value>207</value></Data><Data name="Waterway"><value>Hiwassee</value></Data><Data name="City, State"><value>Decatur, TN</value></Data><Data name="GPS Coords"><value>35.3592, -84.8605</value></Data><Data name="River Miles"><value>10.3</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>Yes</value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-84.8605,35.3592,0</coordinates></Point>
 </Placemark>
 
 <Placemark>
@@ -1165,6 +1237,30 @@
 <Folder>
 <name>Class I Access Ramps</name>
 <Placemark>
+<name>Thrasher Pike</name>
+<description><![CDATA[ID: 66<br>Waterway: North Chickamauga Creek<br>City, State: Hixson, TN<br>GPS Coords: 35.2108, -85.2146<br>River Miles: 18<br>Class I?: Yes<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: Rain dependent]]></description>
+<styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>66</value></Data><Data name="Waterway"><value>North Chickamauga Creek</value></Data><Data name="City, State"><value>Hixson, TN</value></Data><Data name="GPS Coords"><value>35.2108, -85.2146</value></Data><Data name="River Miles"><value>18</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value>Rain dependent</value></Data></ExtendedData>
+<Point><coordinates>-85.2146,35.2108,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Boy Scout Rd</name>
+<description><![CDATA[ID: 69<br>Waterway: North Chickamauga Creek<br>City, State: Hixson, TN<br>GPS Coords: 35.1751, -85.2275<br>River Miles: 13<br>Class I?: Yes<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: Rain dependent]]></description>
+<styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>69</value></Data><Data name="Waterway"><value>North Chickamauga Creek</value></Data><Data name="City, State"><value>Hixson, TN</value></Data><Data name="GPS Coords"><value>35.1751, -85.2275</value></Data><Data name="River Miles"><value>13</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value>Rain dependent</value></Data></ExtendedData>
+<Point><coordinates>-85.2275,35.1751,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Lower Mill Rd</name>
+<description><![CDATA[ID: 70<br>Waterway: North Chickamauga Creek<br>City, State: Hixson, TN<br>GPS Coords: 35.1644, -85.2187<br>River Miles: 11<br>Class I?: Yes<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: ]]></description>
+<styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>70</value></Data><Data name="Waterway"><value>North Chickamauga Creek</value></Data><Data name="City, State"><value>Hixson, TN</value></Data><Data name="GPS Coords"><value>35.1644, -85.2187</value></Data><Data name="River Miles"><value>11</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.2187,35.1644,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
 <name>Longview Dr</name>
 <description><![CDATA[ID: 71<br>Waterway: North Chickamauga Creek<br>City, State: Hixson, TN<br>GPS Coords: 35.1409, -85.2290<br>River Miles: 5<br>Class I?: Yes<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: ]]></description>
 <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
@@ -1186,6 +1282,14 @@
 <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
 <ExtendedData><Data name="ID"><value>81</value></Data><Data name="Waterway"><value>South Chickamauga Creek</value></Data><Data name="City, State"><value>Ringgold, GA</value></Data><Data name="GPS Coords"><value>34.9087, -85.1040</value></Data><Data name="River Miles"><value>34.8</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value></value></Data></ExtendedData>
 <Point><coordinates>-85.1040,34.9087,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Ringgold Swimming Pool Park</name>
+<description><![CDATA[ID: 82<br>Waterway: South Chickamauga Creek<br>City, State: Ringgold, GA<br>GPS Coords: 34.9108, -85.1119<br>River Miles: 33.8<br>Class I?: Yes<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: KayakRinggold on FB kayak and tube rental]]></description>
+<styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>82</value></Data><Data name="Waterway"><value>South Chickamauga Creek</value></Data><Data name="City, State"><value>Ringgold, GA</value></Data><Data name="GPS Coords"><value>34.9108, -85.1119</value></Data><Data name="River Miles"><value>33.8</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value>KayakRinggold on FB kayak and tube rental</value></Data></ExtendedData>
+<Point><coordinates>-85.1119,34.9108,0</coordinates></Point>
 </Placemark>
 
 <Placemark>
@@ -1245,11 +1349,43 @@
 </Placemark>
 
 <Placemark>
+<name>Hwy 136</name>
+<description><![CDATA[ID: 97<br>Waterway: West Chickamauga Creek<br>City, State: Chickamauga, GA<br>GPS Coords: 34.8025, -85.3490<br>River Miles: 39.5<br>Class I?: Yes<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: from Hwy 136 to Chickamauga Mill need 120 ft3sec water or will be bony, USGS 3567340.]]></description>
+<styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>97</value></Data><Data name="Waterway"><value>West Chickamauga Creek</value></Data><Data name="City, State"><value>Chickamauga, GA</value></Data><Data name="GPS Coords"><value>34.8025, -85.3490</value></Data><Data name="River Miles"><value>39.5</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value>from Hwy 136 to Chickamauga Mill need 120 ft3sec water or will be bony, USGS 3567340.</value></Data></ExtendedData>
+<Point><coordinates>-85.3490,34.8025,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Hwy 341</name>
+<description><![CDATA[ID: 98<br>Waterway: West Chickamauga Creek<br>City, State: Chickamauga, GA<br>GPS Coords: 34.8119, -85.3258<br>River Miles: 36.8<br>Class I?: Yes<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: ]]></description>
+<styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>98</value></Data><Data name="Waterway"><value>West Chickamauga Creek</value></Data><Data name="City, State"><value>Chickamauga, GA</value></Data><Data name="GPS Coords"><value>34.8119, -85.3258</value></Data><Data name="River Miles"><value>36.8</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.3258,34.8119,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
 <name>Old Bethel Rd</name>
 <description><![CDATA[ID: 99<br>Waterway: West Chickamauga Creek<br>City, State: Chickamauga, GA<br>GPS Coords: 34.8330, -85.3166<br>River Miles: 33.7<br>Class I?: Yes<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: ]]></description>
 <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
 <ExtendedData><Data name="ID"><value>99</value></Data><Data name="Waterway"><value>West Chickamauga Creek</value></Data><Data name="City, State"><value>Chickamauga, GA</value></Data><Data name="GPS Coords"><value>34.8330, -85.3166</value></Data><Data name="River Miles"><value>33.7</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value></value></Data></ExtendedData>
 <Point><coordinates>-85.3166,34.8330,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Martin Clement Rd</name>
+<description><![CDATA[ID: 100<br>Waterway: West Chickamauga Creek<br>City, State: Chickamauga, GA<br>GPS Coords: 34.8452, -85.3058<br>River Miles: 30.8<br>Class I?: Yes<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: ]]></description>
+<styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>100</value></Data><Data name="Waterway"><value>West Chickamauga Creek</value></Data><Data name="City, State"><value>Chickamauga, GA</value></Data><Data name="GPS Coords"><value>34.8452, -85.3058</value></Data><Data name="River Miles"><value>30.8</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.3058,34.8452,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Lofton Rd</name>
+<description><![CDATA[ID: 101<br>Waterway: West Chickamauga Creek<br>City, State: Chickamauga, GA<br>GPS Coords: 34.8509, -85.2867<br>River Miles: 29.4<br>Class I?: Yes<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: ]]></description>
+<styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>101</value></Data><Data name="Waterway"><value>West Chickamauga Creek</value></Data><Data name="City, State"><value>Chickamauga, GA</value></Data><Data name="GPS Coords"><value>34.8509, -85.2867</value></Data><Data name="River Miles"><value>29.4</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.2867,34.8509,0</coordinates></Point>
 </Placemark>
 
 <Placemark>
@@ -1330,6 +1466,14 @@
 <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
 <ExtendedData><Data name="ID"><value>158</value></Data><Data name="Waterway"><value>Sequatchie</value></Data><Data name="City, State"><value>Dunlap, TN</value></Data><Data name="GPS Coords"><value>35.3323, -85.3924</value></Data><Data name="River Miles"><value>41.6</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value></value></Data></ExtendedData>
 <Point><coordinates>-85.3924,35.3323,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Hudlow Rd ramp</name>
+<description><![CDATA[ID: 159<br>Waterway: Sequatchie<br>City, State: Dunlap, TN<br>GPS Coords: 35.3258, -85.3954<br>River Miles: 41.1<br>Class I?: Yes<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: ]]></description>
+<styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>159</value></Data><Data name="Waterway"><value>Sequatchie</value></Data><Data name="City, State"><value>Dunlap, TN</value></Data><Data name="GPS Coords"><value>35.3258, -85.3954</value></Data><Data name="River Miles"><value>41.1</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.3954,35.3258,0</coordinates></Point>
 </Placemark>
 
 <Placemark>
@@ -1418,6 +1562,14 @@
 <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
 <ExtendedData><Data name="ID"><value>191</value></Data><Data name="Waterway"><value>Hiwassee</value></Data><Data name="City, State"><value>Benton, TN</value></Data><Data name="GPS Coords"><value>35.2247, -84.6464</value></Data><Data name="River Miles"><value>37.7</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>Yes</value></Data><Data name="Details"><value></value></Data></ExtendedData>
 <Point><coordinates>-84.6464,35.2247,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Old Patty Rd on Dentville Rd</name>
+<description><![CDATA[ID: 192<br>Waterway: Hiwassee<br>City, State: Benton, TN<br>GPS Coords: 35.2038, -84.6528<br>River Miles: 35<br>Class I?: Yes<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: ]]></description>
+<styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>192</value></Data><Data name="Waterway"><value>Hiwassee</value></Data><Data name="City, State"><value>Benton, TN</value></Data><Data name="GPS Coords"><value>35.2038, -84.6528</value></Data><Data name="River Miles"><value>35</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-84.6528,35.2038,0</coordinates></Point>
 </Placemark>
 
 <Placemark>
@@ -1920,6 +2072,14 @@
 <styleUrl>#icon-1535-9C27B0-labelson</styleUrl>
 <ExtendedData><Data name="ID"><value>65</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Chattanooga, TN</value></Data><Data name="GPS Coords"><value>35.1062, -85.2292</value></Data><Data name="River Miles"><value>471</value></Data><Data name="Details"><value>Lockmaster 423-875-6230</value></Data></ExtendedData>
 <Point><coordinates>-85.2292,35.1062,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Chickamauga Dam River</name>
+<description><![CDATA[ID: 75<br>Waterway: Tennessee<br>City, State: Chattanooga, TN<br>GPS Coords: 35.1062, -85.2297<br>River Miles: 471<br>Details: Lockmaster 423-875-6230]]></description>
+<styleUrl>#icon-1535-9C27B0-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>75</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Chattanooga, TN</value></Data><Data name="GPS Coords"><value>35.1062, -85.2297</value></Data><Data name="River Miles"><value>471</value></Data><Data name="Details"><value>Lockmaster 423-875-6230</value></Data></ExtendedData>
+<Point><coordinates>-85.2297,35.1062,0</coordinates></Point>
 </Placemark>
 
 <Placemark>
