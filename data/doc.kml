@@ -706,11 +706,11 @@
 </Placemark>
 
 <Placemark>
-<name>Mouth, Long Island Cove</name>
-<description><![CDATA[ID: 173<br>Waterway: Long Island Cove<br>City, State: Bridgeport, AL<br>GPS Coords: 34.8992, -85.7138<br>River Miles: 410<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<name>Co Rd 676, Long Island Cove</name>
+<description><![CDATA[ID: 174<br>Waterway: Tennessee<br>City, State: Bridgeport, AL<br>GPS Coords: 34.8990, -85.7090<br>River Miles: 0.2<br>Class I?: No<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: Yes<br>Details: ]]></description>
 <styleUrl>#icon-1899-0288D1</styleUrl>
-<ExtendedData><Data name="ID"><value>173</value></Data><Data name="Waterway"><value>Long Island Cove</value></Data><Data name="City, State"><value>Bridgeport, AL</value></Data><Data name="GPS Coords"><value>34.8992, -85.7138</value></Data><Data name="River Miles"><value>410</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
-<Point><coordinates>-85.7138,34.8992,0</coordinates></Point>
+<ExtendedData><Data name="ID"><value>174</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Bridgeport, AL</value></Data><Data name="GPS Coords"><value>34.8990, -85.7090</value></Data><Data name="River Miles"><value>0.2</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>Yes</value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.7090,34.8990,0</coordinates></Point>
 </Placemark>
 
 <Placemark>
@@ -751,14 +751,6 @@
 <styleUrl>#icon-1899-0288D1</styleUrl>
 <ExtendedData><Data name="ID"><value>180</value></Data><Data name="Waterway"><value>Crow Creek</value></Data><Data name="City, State"><value>Stevenson, AL</value></Data><Data name="GPS Coords"><value>34.8399, -85.8317</value></Data><Data name="River Miles"><value>2</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>Yes</value></Data><Data name="Details"><value></value></Data></ExtendedData>
 <Point><coordinates>-85.8317,34.8399,0</coordinates></Point>
-</Placemark>
-
-<Placemark>
-<name>Mouth, Crow Creek</name>
-<description><![CDATA[ID: 181<br>Waterway: Crow Creek<br>City, State: Stevenson, AL<br>GPS Coords: 34.8139, -85.8258<br>River Miles: 401.2<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
-<styleUrl>#icon-1899-0288D1</styleUrl>
-<ExtendedData><Data name="ID"><value>181</value></Data><Data name="Waterway"><value>Crow Creek</value></Data><Data name="City, State"><value>Stevenson, AL</value></Data><Data name="GPS Coords"><value>34.8139, -85.8258</value></Data><Data name="River Miles"><value>401.2</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
-<Point><coordinates>-85.8258,34.8139,0</coordinates></Point>
 </Placemark>
 
 <Placemark>
