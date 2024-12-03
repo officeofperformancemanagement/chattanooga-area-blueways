@@ -213,7 +213,7 @@ kml_output = f'''<?xml version="1.0" encoding="UTF-8"?>
     {Folder('Flatwater Access Ramps', layer_rows['Flatwater Access Ramps'], layer_display_fields.get('Flatwater Access Ramps', FIELDS), "#icon-1899-0288D1")}
     {Folder('Class I Access Ramps', layer_rows['Class I Access Ramps'], layer_display_fields.get('Class I Access Ramps', FIELDS), "#icon-1899-FF5252-labelson")}
     {Folder('Camping Sites', layer_rows['Camping Sites'], layer_display_fields.get('Camping Sites', FIELDS), "#icon-1765-0F9D58-labelson")}
-    {Folder('Outfitters (Rentals, Shuttle, Tours)', layer_rows['Outfitters (Rentals, Shuttle, Tours)'], layer_display_fields.get('Outfitters (Rentals, Shuttle, Tours)', FIELDS), "#icon-1536-F9A825-labelson")}
+    {Folder('Outfitters', layer_rows['Outfitters'], layer_display_fields.get('Outfitters', FIELDS), "#icon-1536-F9A825-labelson")}
     {Folder('Food and Convenience Services', layer_rows['Food and Convenience Services'], layer_display_fields.get('Food and Convenience Services', FIELDS), "#icon-1577-795548-labelson")}
     {Folder('Sightseeing Opportunities', layer_rows['Sightseeing Opportunities'], layer_display_fields.get('Sightseeing Opportunities', FIELDS), "#icon-1535-9C27B0-labelson")}
     {Folder('USGS River Gauges', layer_rows['USGS River Gauges'], layer_display_fields.get('USGS River Gauges', FIELDS), "#icon-1502-000000")}
