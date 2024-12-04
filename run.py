@@ -210,6 +210,38 @@ kml_output = f'''<?xml version="1.0" encoding="UTF-8"?>
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
     </Style>
+    <Style id="icon-1723-817717-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1723-817717-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1723-817717-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1723-817717-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1723-817717-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     {Folder('Flatwater Access Ramps', layer_rows['Flatwater Access Ramps'], layer_display_fields.get('Flatwater Access Ramps', FIELDS), "#icon-1899-0288D1")}
     {Folder('Class I Access Ramps', layer_rows['Class I Access Ramps'], layer_display_fields.get('Class I Access Ramps', FIELDS), "#icon-1899-FF5252-labelson")}
     {Folder('Camping Sites', layer_rows['Camping Sites'], layer_display_fields.get('Camping Sites', FIELDS), "#icon-1765-0F9D58-labelson")}
@@ -217,6 +249,7 @@ kml_output = f'''<?xml version="1.0" encoding="UTF-8"?>
     {Folder('Food and Convenience Services', layer_rows['Food and Convenience Services'], layer_display_fields.get('Food and Convenience Services', FIELDS), "#icon-1577-795548-labelson")}
     {Folder('Sightseeing Opportunities', layer_rows['Sightseeing Opportunities'], layer_display_fields.get('Sightseeing Opportunities', FIELDS), "#icon-1535-9C27B0-labelson")}
     {Folder('USGS River Gauges', layer_rows['USGS River Gauges'], layer_display_fields.get('USGS River Gauges', FIELDS), "#icon-1502-000000")}
+    {Folder('River/Creek Mouth', layer_rows['River/Creek Mouth'], layer_display_fields.get('River/Creek Mouth', FIELDS), "#icon-1723-817717-nodesc")}
   </Document>
 </kml>
 '''
