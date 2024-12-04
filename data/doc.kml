@@ -1825,8 +1825,158 @@
 </Folder>
     
 <Folder>
-<name>Outfitters (Rentals, Shuttle, Tours)</name>
+<name>Outfitters</name>
+<Placemark>
+<name>Chester Frost Kayak Rentals</name>
+<description><![CDATA[ID: 48<br>Waterway: Tennessee<br>City, State: Hixson, TN<br>GPS Coords: 35.1812, -85.1530<br>River Miles: 480.5<br>Details: Near Swimming area Pavilion 423-777-5274]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>48</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Hixson, TN</value></Data><Data name="GPS Coords"><value>35.1812, -85.1530</value></Data><Data name="River Miles"><value>480.5</value></Data><Data name="Details"><value>Near Swimming area Pavilion 423-777-5274</value></Data></ExtendedData>
+<Point><coordinates>-85.1530,35.1812,0</coordinates></Point>
+</Placemark>
 
+<Placemark>
+<name>Kayak Rentals</name>
+<description><![CDATA[ID: 49<br>Waterway: Tennessee<br>City, State: Harrison Bay SP<br>GPS Coords: 35.1732, -85.1260<br>River Miles: 479<br>Details: 423-344-6214 Located near swimming pool]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>49</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Harrison Bay SP</value></Data><Data name="GPS Coords"><value>35.1732, -85.1260</value></Data><Data name="River Miles"><value>479</value></Data><Data name="Details"><value>423-344-6214 Located near swimming pool</value></Data></ExtendedData>
+<Point><coordinates>-85.1260,35.1732,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Rustys Kayak Rentals</name>
+<description><![CDATA[ID: 52<br>Waterway: Tennessee<br>City, State: Harrison, TN<br>GPS Coords: 35.1723, -85.1156<br>River Miles: -<br>Details: Located near HBSP entrance 8332 Harrison Bay Rd, Harrison, TN www.rustyskayaks.com 423-591-5526 May shut down CLOSED]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>52</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Harrison, TN</value></Data><Data name="GPS Coords"><value>35.1723, -85.1156</value></Data><Data name="River Miles"><value>-</value></Data><Data name="Details"><value>Located near HBSP entrance 8332 Harrison Bay Rd, Harrison, TN www.rustyskayaks.com 423-591-5526 May shut down CLOSED</value></Data></ExtendedData>
+<Point><coordinates>-85.1156,35.1723,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Outshine Adventures SUP tours</name>
+<description><![CDATA[ID: 79<br>Waterway: Tennessee<br>City, State: Chattanooga, TN<br>GPS Coords: 35.0962, -85.2654<br>River Miles: -<br>Details: SUP Tours. 423-763-7357 Mobile Business]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>79</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Chattanooga, TN</value></Data><Data name="GPS Coords"><value>35.0962, -85.2654</value></Data><Data name="River Miles"><value>-</value></Data><Data name="Details"><value>SUP Tours. 423-763-7357 Mobile Business</value></Data></ExtendedData>
+<Point><coordinates>-85.2654,35.0962,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Gearhead Outfitters formerly RockCreek</name>
+<description><![CDATA[ID: 95<br>Waterway: All<br>City, State: Chattanooga, TN<br>GPS Coords: 35.0557, -85.2803<br>River Miles: -<br>Details: Outfitter 1530 Riverside Dr, Chattanooga, TN 37406 www.rockcreek.com 423-265-1836]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>95</value></Data><Data name="Waterway"><value>All</value></Data><Data name="City, State"><value>Chattanooga, TN</value></Data><Data name="GPS Coords"><value>35.0557, -85.2803</value></Data><Data name="River Miles"><value>-</value></Data><Data name="Details"><value>Outfitter 1530 Riverside Dr, Chattanooga, TN 37406 www.rockcreek.com 423-265-1836</value></Data></ExtendedData>
+<Point><coordinates>-85.2803,35.0557,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Battlefield Outdoors</name>
+<description><![CDATA[ID: 106<br>Waterway: West Chickamauga Creek<br>City, State: Ft Oglethorpe, GA<br>GPS Coords: 34.9479, -85.2580<br>River Miles: -<br>Details: Outfitter 2871 Lafayette Rd Fort Oglethorpe, GA 30742 battlefield-outdoors.com706-841-0040]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>106</value></Data><Data name="Waterway"><value>West Chickamauga Creek</value></Data><Data name="City, State"><value>Ft Oglethorpe, GA</value></Data><Data name="GPS Coords"><value>34.9479, -85.2580</value></Data><Data name="River Miles"><value>-</value></Data><Data name="Details"><value>Outfitter 2871 Lafayette Rd Fort Oglethorpe, GA 30742 battlefield-outdoors.com706-841-0040</value></Data></ExtendedData>
+<Point><coordinates>-85.2580,34.9479,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Outdoor Chattanooga</name>
+<description><![CDATA[ID: 115<br>Waterway: Tennessee<br>City, State: Chattanooga, TN<br>GPS Coords: 35.0614, -85.3066<br>River Miles: -<br>Details: OC offers kayak tours 200 River St, Chattanooga, TN 37405 outdoorchattanooga.com423-643-6888]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>115</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Chattanooga, TN</value></Data><Data name="GPS Coords"><value>35.0614, -85.3066</value></Data><Data name="River Miles"><value>-</value></Data><Data name="Details"><value>OC offers kayak tours 200 River St, Chattanooga, TN 37405 outdoorchattanooga.com423-643-6888</value></Data></ExtendedData>
+<Point><coordinates>-85.3066,35.0614,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Chattanooga Paddleboard Rentals</name>
+<description><![CDATA[ID: 116<br>Waterway: Tennessee<br>City, State: Chattanooga, TN<br>GPS Coords: 35.0603, -85.3088<br>River Miles: 464<br>Details: 423-702-1422 Mobile Business at Coolidge Park Ramp chattanoogapaddleboards.com]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>116</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Chattanooga, TN</value></Data><Data name="GPS Coords"><value>35.0603, -85.3088</value></Data><Data name="River Miles"><value>464</value></Data><Data name="Details"><value>423-702-1422 Mobile Business at Coolidge Park Ramp chattanoogapaddleboards.com</value></Data></ExtendedData>
+<Point><coordinates>-85.3088,35.0603,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>L2 Outside</name>
+<description><![CDATA[ID: 117<br>Waterway: Tennessee<br>City, State: Chattanooga, TN<br>GPS Coords: 35.0621, -85.3085<br>River Miles: 464<br>Details: 131 River St, Chattanooga, TN 37405 httpsl2outside.com423-531-7873]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>117</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Chattanooga, TN</value></Data><Data name="GPS Coords"><value>35.0621, -85.3085</value></Data><Data name="River Miles"><value>464</value></Data><Data name="Details"><value>131 River St, Chattanooga, TN 37405 httpsl2outside.com423-531-7873</value></Data></ExtendedData>
+<Point><coordinates>-85.3085,35.0621,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Reflection Riding Canoe Rentals</name>
+<description><![CDATA[ID: 123<br>Waterway: Lookout Creek<br>City, State: Chattanooga, TN<br>GPS Coords: 35.0118, -85.3656<br>River Miles: 2<br>Details: Canoe Rentals 400 Garden Rd, Chattanooga, TN 37419 www.reflectionriding.org 423-821-1160]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>123</value></Data><Data name="Waterway"><value>Lookout Creek</value></Data><Data name="City, State"><value>Chattanooga, TN</value></Data><Data name="GPS Coords"><value>35.0118, -85.3656</value></Data><Data name="River Miles"><value>2</value></Data><Data name="Details"><value>Canoe Rentals 400 Garden Rd, Chattanooga, TN 37419 www.reflectionriding.org 423-821-1160</value></Data></ExtendedData>
+<Point><coordinates>-85.3656,35.0118,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>River Canyon Adventures</name>
+<description><![CDATA[ID: 129<br>Waterway: Tennessee<br>City, State: Chattanooga, TN<br>GPS Coords: 35.1228, -85.3942<br>River Miles: 451<br>Details: Kayak  SUP rentals 21726 River Canyon Rd, Chattanooga, TN 37405 www.rivercanyonadventure.com423-488-8211]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>129</value></Data><Data name="Waterway"><value>Tennessee</value></Data><Data name="City, State"><value>Chattanooga, TN</value></Data><Data name="GPS Coords"><value>35.1228, -85.3942</value></Data><Data name="River Miles"><value>451</value></Data><Data name="Details"><value>Kayak  SUP rentals 21726 River Canyon Rd, Chattanooga, TN 37405 www.rivercanyonadventure.com423-488-8211</value></Data></ExtendedData>
+<Point><coordinates>-85.3942,35.1228,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Willis Farm Kayak and Canoe Rental</name>
+<description><![CDATA[ID: 166<br>Waterway: Sequatchie<br>City, State: Whitwell, TN<br>GPS Coords: 35.1148, -85.5329<br>River Miles: 13<br>Details: 615 Inman Rd, Whitwell, TN 37397423-827-8765]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>166</value></Data><Data name="Waterway"><value>Sequatchie</value></Data><Data name="City, State"><value>Whitwell, TN</value></Data><Data name="GPS Coords"><value>35.1148, -85.5329</value></Data><Data name="River Miles"><value>13</value></Data><Data name="Details"><value>615 Inman Rd, Whitwell, TN 37397423-827-8765</value></Data></ExtendedData>
+<Point><coordinates>-85.5329,35.1148,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Hiwassee Outfitters</name>
+<description><![CDATA[ID: 186<br>Waterway: Hiwassee<br>City, State: Reliance, TN<br>GPS Coords: 35.1876, -84.4961<br>River Miles: 49.3<br>Details: Kayak  Raft Rentals, Camping155 Ellis Creek Rd, Reliance, TN 37369 www.hiwasseeoutfitters.com423-338-8115]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>186</value></Data><Data name="Waterway"><value>Hiwassee</value></Data><Data name="City, State"><value>Reliance, TN</value></Data><Data name="GPS Coords"><value>35.1876, -84.4961</value></Data><Data name="River Miles"><value>49.3</value></Data><Data name="Details"><value>Kayak  Raft Rentals, Camping155 Ellis Creek Rd, Reliance, TN 37369 www.hiwasseeoutfitters.com423-338-8115</value></Data></ExtendedData>
+<Point><coordinates>-84.4961,35.1876,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Webb Brothers</name>
+<description><![CDATA[ID: 187<br>Waterway: Hiwassee<br>City, State: Reliance, TN<br>GPS Coords: 35.1883, -84.5027<br>River Miles: 49.1<br>Details: Kayak rentals, Shuttle, Primitive Camping 3708 TN- 30, Reliance, TN 37369 www.webbbros.com423-338-2373]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>187</value></Data><Data name="Waterway"><value>Hiwassee</value></Data><Data name="City, State"><value>Reliance, TN</value></Data><Data name="GPS Coords"><value>35.1883, -84.5027</value></Data><Data name="River Miles"><value>49.1</value></Data><Data name="Details"><value>Kayak rentals, Shuttle, Primitive Camping 3708 TN- 30, Reliance, TN 37369 www.webbbros.com423-338-2373</value></Data></ExtendedData>
+<Point><coordinates>-84.5027,35.1883,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Ocoee Inn Kayak Rentals</name>
+<description><![CDATA[ID: 218<br>Waterway: Ocoee<br>City, State: Benton, TN<br>GPS Coords: 35.1030, -84.6340<br>River Miles: 14.5<br>Details: Kayak Rentals Motel, restaurant,2496 US-64, Benton, TN 37307 www.ocoeeinnrafting.com 423-338-5591]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>218</value></Data><Data name="Waterway"><value>Ocoee</value></Data><Data name="City, State"><value>Benton, TN</value></Data><Data name="GPS Coords"><value>35.1030, -84.6340</value></Data><Data name="River Miles"><value>14.5</value></Data><Data name="Details"><value>Kayak Rentals Motel, restaurant,2496 US-64, Benton, TN 37307 www.ocoeeinnrafting.com 423-338-5591</value></Data></ExtendedData>
+<Point><coordinates>-84.6340,35.1030,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Ocoee Paddleboards</name>
+<description><![CDATA[ID: 221<br>Waterway: Ocoee<br>City, State: Benton, TN<br>GPS Coords: 35.1108, -84.6888<br>River Miles: -<br>Details: Rentals 1110 US-64, Ocoee, TN 37361 www.ocoeewatersports.com423-650-6116]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>221</value></Data><Data name="Waterway"><value>Ocoee</value></Data><Data name="City, State"><value>Benton, TN</value></Data><Data name="GPS Coords"><value>35.1108, -84.6888</value></Data><Data name="River Miles"><value>-</value></Data><Data name="Details"><value>Rentals 1110 US-64, Ocoee, TN 37361 www.ocoeewatersports.com423-650-6116</value></Data></ExtendedData>
+<Point><coordinates>-84.6888,35.1108,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Terrapin Outdoor Cente</name>
+<description><![CDATA[ID: 262<br>Waterway: Terrapin Creek<br>City, State: Piedmont AL<br>GPS Coords: 34.0256, -85.6081<br>River Miles: -<br>Details: Kayak Rentals 4114 County Rd 175, Piedmont, AL 36272www.canoeshop.net256-447-8383]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>262</value></Data><Data name="Waterway"><value>Terrapin Creek</value></Data><Data name="City, State"><value>Piedmont AL</value></Data><Data name="GPS Coords"><value>34.0256, -85.6081</value></Data><Data name="River Miles"><value>-</value></Data><Data name="Details"><value>Kayak Rentals 4114 County Rd 175, Piedmont, AL 36272www.canoeshop.net256-447-8383</value></Data></ExtendedData>
+<Point><coordinates>-85.6081,34.0256,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Redneck Yacht Club Canoe  Kayak Rentals</name>
+<description><![CDATA[ID: 263<br>Waterway: Terrapin Creek<br>City, State: Piedmont AL<br>GPS Coords: 34.0267, -85.6063<br>River Miles: -<br>Details: Kayak  Canoe Rentals 3850 County Rd 175, Piedmont, AL 36272redneckyachtclubcanoeandkayakrental.com25 6-447-8690]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>263</value></Data><Data name="Waterway"><value>Terrapin Creek</value></Data><Data name="City, State"><value>Piedmont AL</value></Data><Data name="GPS Coords"><value>34.0267, -85.6063</value></Data><Data name="River Miles"><value>-</value></Data><Data name="Details"><value>Kayak  Canoe Rentals 3850 County Rd 175, Piedmont, AL 36272redneckyachtclubcanoeandkayakrental.com25 6-447-8690</value></Data></ExtendedData>
+<Point><coordinates>-85.6063,34.0267,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Elk River Canoe Rental</name>
+<description><![CDATA[ID: 280<br>Waterway: Elk<br>City, State: Kelso, TN<br>GPS Coords: 35.1258, -86.4078<br>River Miles: 110<br>Details: Kayak rentals  Shuttle 190 Smithland Rd, Kelso, TN 37348www.elkrivercanoes.com931-937-6886]]></description>
+<styleUrl>#icon-1536-F9A825-labelson</styleUrl>
+<ExtendedData><Data name="ID"><value>280</value></Data><Data name="Waterway"><value>Elk</value></Data><Data name="City, State"><value>Kelso, TN</value></Data><Data name="GPS Coords"><value>35.1258, -86.4078</value></Data><Data name="River Miles"><value>110</value></Data><Data name="Details"><value>Kayak rentals  Shuttle 190 Smithland Rd, Kelso, TN 37348www.elkrivercanoes.com931-937-6886</value></Data></ExtendedData>
+<Point><coordinates>-86.4078,35.1258,0</coordinates></Point>
+</Placemark>
 </Folder>
     
 <Folder>
