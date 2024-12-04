@@ -110,6 +110,38 @@
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
     </Style>
+    <Style id="icon-1723-817717-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1723-817717-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1723-817717-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1723-817717-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1723-817717-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     
 <Folder>
 <name>Flatwater Access Ramps</name>
@@ -2177,6 +2209,209 @@
 <styleUrl>#icon-1502-000000</styleUrl>
 <ExtendedData><Data name="ID"><value>248</value></Data><Data name="Waterway"><value>Oostanaula</value></Data><Data name="City, State"><value>Calhoun, GA</value></Data><Data name="GPS Coords"><value>34.5179, -84.9539</value></Data><Data name="River Miles"><value></value></Data><Data name="Details"><value>USGS 02387520</value></Data></ExtendedData>
 <Point><coordinates>-84.9539,34.5179,0</coordinates></Point>
+</Placemark>
+</Folder>
+    
+<Folder>
+<name>River/Creek Mouth</name>
+<Placemark>
+<name>Mouth, Richland Creek</name>
+<description><![CDATA[ID: 10<br>Waterway: Richland Creek<br>City, State: Dayton, TN<br>GPS Coords: 35.4732, -84.9734<br>River Miles: 504.4<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>10</value></Data><Data name="Waterway"><value>Richland Creek</value></Data><Data name="City, State"><value>Dayton, TN</value></Data><Data name="GPS Coords"><value>35.4732, -84.9734</value></Data><Data name="River Miles"><value>504.4</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-84.9734,35.4732,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Armstrong Slough</name>
+<description><![CDATA[ID: 12<br>Waterway: Armstrong Slough<br>City, State: Dayton, TN<br>GPS Coords: 35.4550, -84.9883<br>River Miles: 503<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>12</value></Data><Data name="Waterway"><value>Armstrong Slough</value></Data><Data name="City, State"><value>Dayton, TN</value></Data><Data name="GPS Coords"><value>35.4550, -84.9883</value></Data><Data name="River Miles"><value>503</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-84.9883,35.4550,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Bear Branch Slough</name>
+<description><![CDATA[ID: 15<br>Waterway: Bear Branch Slough<br>City, State: Birchwood, TN<br>GPS Coords: 35.3844, -85.0217<br>River Miles: 497<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>15</value></Data><Data name="Waterway"><value>Bear Branch Slough</value></Data><Data name="City, State"><value>Birchwood, TN</value></Data><Data name="GPS Coords"><value>35.3844, -85.0217</value></Data><Data name="River Miles"><value>497</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.0217,35.3844,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Sale Creek</name>
+<description><![CDATA[ID: 23<br>Waterway: Sale Creek<br>City, State: Sale Creek, TN<br>GPS Coords: 35.3595, -85.0542<br>River Miles: 495<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>23</value></Data><Data name="Waterway"><value>Sale Creek</value></Data><Data name="City, State"><value>Sale Creek, TN</value></Data><Data name="GPS Coords"><value>35.3595, -85.0542</value></Data><Data name="River Miles"><value>495</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.0542,35.3595,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Grasshopper Creek</name>
+<description><![CDATA[ID: 26<br>Waterway: Grasshopper Creek<br>City, State: Birchwood, TN<br>GPS Coords: 35.3467, -85.0423<br>River Miles: 494.2<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>26</value></Data><Data name="Waterway"><value>Grasshopper Creek</value></Data><Data name="City, State"><value>Birchwood, TN</value></Data><Data name="GPS Coords"><value>35.3467, -85.0423</value></Data><Data name="River Miles"><value>494.2</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.0423,35.3467,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Eldridge Slough</name>
+<description><![CDATA[ID: 28<br>Waterway: Eldridge Slough<br>City, State: Harrison, TN<br>GPS Coords: 35.3051, -85.0582<br>River Miles: 491.2<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>28</value></Data><Data name="Waterway"><value>Eldridge Slough</value></Data><Data name="City, State"><value>Harrison, TN</value></Data><Data name="GPS Coords"><value>35.3051, -85.0582</value></Data><Data name="River Miles"><value>491.2</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.0582,35.3051,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Possum Creek</name>
+<description><![CDATA[ID: 32<br>Waterway: Possum Creek<br>City, State: Soddy Daisy, TN<br>GPS Coords: 35.2916, -85.0849<br>River Miles: 489.8<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>32</value></Data><Data name="Waterway"><value>Possum Creek</value></Data><Data name="City, State"><value>Soddy Daisy, TN</value></Data><Data name="GPS Coords"><value>35.2916, -85.0849</value></Data><Data name="River Miles"><value>489.8</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.0849,35.2916,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Soddy Creek</name>
+<description><![CDATA[ID: 40<br>Waterway: Soddy Creek<br>City, State: Soddy Daisy, TN<br>GPS Coords: 35.2665, -85.1084<br>River Miles: 487.6<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>40</value></Data><Data name="Waterway"><value>Soddy Creek</value></Data><Data name="City, State"><value>Soddy Daisy, TN</value></Data><Data name="GPS Coords"><value>35.2665, -85.1084</value></Data><Data name="River Miles"><value>487.6</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.1084,35.2665,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Ware Branch Slough Thatch Rd</name>
+<description><![CDATA[ID: 42<br>Waterway: Ware Branch Slough<br>City, State: Harrison, TN<br>GPS Coords: 35.2538, -85.0879<br>River Miles: 486.1<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>42</value></Data><Data name="Waterway"><value>Ware Branch Slough</value></Data><Data name="City, State"><value>Harrison, TN</value></Data><Data name="GPS Coords"><value>35.2538, -85.0879</value></Data><Data name="River Miles"><value>486.1</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.0879,35.2538,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, North Chickamauga Creek</name>
+<description><![CDATA[ID: 74<br>Waterway: North Chickamauga Creek<br>City, State: Chattanooga, TN<br>GPS Coords: 35.1067, -85.2318<br>River Miles: 470.8<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>74</value></Data><Data name="Waterway"><value>North Chickamauga Creek</value></Data><Data name="City, State"><value>Chattanooga, TN</value></Data><Data name="GPS Coords"><value>35.1067, -85.2318</value></Data><Data name="River Miles"><value>470.8</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.2318,35.1067,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, South Chickamauga Creek</name>
+<description><![CDATA[ID: 94<br>Waterway: South Chickamauga Creek<br>City, State: Chattanooga, TN<br>GPS Coords: 35.0895, -85.2650<br>River Miles: 468.2<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>94</value></Data><Data name="Waterway"><value>South Chickamauga Creek</value></Data><Data name="City, State"><value>Chattanooga, TN</value></Data><Data name="GPS Coords"><value>35.0895, -85.2650</value></Data><Data name="River Miles"><value>468.2</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.2650,35.0895,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Citco Creek Mouth</name>
+<description><![CDATA[ID: 96<br>Waterway: Citgo Creek<br>City, State: Chattanooga, TN<br>GPS Coords: 35.0540, -85.2888<br>River Miles: 465.2<br>Class I?: No<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: flatwater]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>96</value></Data><Data name="Waterway"><value>Citgo Creek</value></Data><Data name="City, State"><value>Chattanooga, TN</value></Data><Data name="GPS Coords"><value>35.0540, -85.2888</value></Data><Data name="River Miles"><value>465.2</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value>flatwater</value></Data></ExtendedData>
+<Point><coordinates>-85.2888,35.0540,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, West Chickamauga Creek at Camp Jordan Ramp 2 on South Chickamauga at 12.8 mi</name>
+<description><![CDATA[ID: 111<br>Waterway: West Chickamauga Creek<br>City, State: East Ridge, TN<br>GPS Coords: 35.0048, -85.1997<br>River Miles: 0<br>Class I?: Yes<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>111</value></Data><Data name="Waterway"><value>West Chickamauga Creek</value></Data><Data name="City, State"><value>East Ridge, TN</value></Data><Data name="GPS Coords"><value>35.0048, -85.1997</value></Data><Data name="River Miles"><value>0</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.1997,35.0048,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Lookout Creek</name>
+<description><![CDATA[ID: 125<br>Waterway: Lookout Creek<br>City, State: Chattanooga, TN<br>GPS Coords: 35.0261, -85.3447<br>River Miles: 459.8<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>125</value></Data><Data name="Waterway"><value>Lookout Creek</value></Data><Data name="City, State"><value>Chattanooga, TN</value></Data><Data name="GPS Coords"><value>35.0261, -85.3447</value></Data><Data name="River Miles"><value>459.8</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.3447,35.0261,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Sequatchie River</name>
+<description><![CDATA[ID: 168<br>Waterway: Sequatchie<br>City, State: Jasper, TN<br>GPS Coords: 35.0253, -85.6356<br>River Miles: 422.6<br>Class I?: Yes<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>168</value></Data><Data name="Waterway"><value>Sequatchie</value></Data><Data name="City, State"><value>Jasper, TN</value></Data><Data name="GPS Coords"><value>35.0253, -85.6356</value></Data><Data name="River Miles"><value>422.6</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.6356,35.0253,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Long Island Cove</name>
+<description><![CDATA[ID: 173<br>Waterway: Long Island Cove<br>City, State: Bridgeport, AL<br>GPS Coords: 34.8992, -85.7138<br>River Miles: 410<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>173</value></Data><Data name="Waterway"><value>Long Island Cove</value></Data><Data name="City, State"><value>Bridgeport, AL</value></Data><Data name="GPS Coords"><value>34.8992, -85.7138</value></Data><Data name="River Miles"><value>410</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.7138,34.8992,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Coon Creek</name>
+<description><![CDATA[ID: 176<br>Waterway: Coon Creek<br>City, State: Stevenson, AL<br>GPS Coords: 34.7457, -85.8601<br>River Miles: 401.8<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>176</value></Data><Data name="Waterway"><value>Coon Creek</value></Data><Data name="City, State"><value>Stevenson, AL</value></Data><Data name="GPS Coords"><value>34.7457, -85.8601</value></Data><Data name="River Miles"><value>401.8</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.8601,34.7457,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Crow Creek</name>
+<description><![CDATA[ID: 181<br>Waterway: Crow Creek<br>City, State: Stevenson, AL<br>GPS Coords: 34.8139, -85.8258<br>River Miles: 401.2<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>181</value></Data><Data name="Waterway"><value>Crow Creek</value></Data><Data name="City, State"><value>Stevenson, AL</value></Data><Data name="GPS Coords"><value>34.8139, -85.8258</value></Data><Data name="River Miles"><value>401.2</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.8258,34.8139,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Mud Creek</name>
+<description><![CDATA[ID: 183<br>Waterway: Mud Creek<br>City, State: Stevenson, AL<br>GPS Coords: 34.7304, -85.8847<br>River Miles: 394.2<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>183</value></Data><Data name="Waterway"><value>Mud Creek</value></Data><Data name="City, State"><value>Stevenson, AL</value></Data><Data name="GPS Coords"><value>34.7304, -85.8847</value></Data><Data name="River Miles"><value>394.2</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.8847,34.7304,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Calhoun Greenway mouth</name>
+<description><![CDATA[ID: 197<br>Waterway: Hiwassee<br>City, State: Charleston, TN<br>GPS Coords: 35.2901, -84.7545<br>River Miles: 19.1<br>Class I?: No<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: Tunnels and lake on short slough, Access from Charleston ramp]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>197</value></Data><Data name="Waterway"><value>Hiwassee</value></Data><Data name="City, State"><value>Charleston, TN</value></Data><Data name="GPS Coords"><value>35.2901, -84.7545</value></Data><Data name="River Miles"><value>19.1</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value>Tunnels and lake on short slough, Access from Charleston ramp</value></Data></ExtendedData>
+<Point><coordinates>-84.7545,35.2901,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, North Mouse Creek on Hiwassee at 12.0 mi</name>
+<description><![CDATA[ID: 199<br>Waterway: North Mouse Creek<br>City, State: Calhoun, TN<br>GPS Coords: 35.3259, -84.8036<br>River Miles: 15<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>199</value></Data><Data name="Waterway"><value>North Mouse Creek</value></Data><Data name="City, State"><value>Calhoun, TN</value></Data><Data name="GPS Coords"><value>35.3259, -84.8036</value></Data><Data name="River Miles"><value>15</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-84.8036,35.3259,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Candies Creek on Hiwassee at 13.0 mi</name>
+<description><![CDATA[ID: 201<br>Waterway: Candies Creek<br>City, State: Georgetown, TN<br>GPS Coords: 35.3434, -84.8489<br>River Miles: 11.5<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>201</value></Data><Data name="Waterway"><value>Candies Creek</value></Data><Data name="City, State"><value>Georgetown, TN</value></Data><Data name="GPS Coords"><value>35.3434, -84.8489</value></Data><Data name="River Miles"><value>11.5</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-84.8489,35.3434,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Rogers Creek on Hiwassee at 13.0 mi</name>
+<description><![CDATA[ID: 205<br>Waterway: Rogers Creek<br>City, State: Calhoun, TN<br>GPS Coords: 35.3400, -84.8365<br>River Miles: 13<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>205</value></Data><Data name="Waterway"><value>Rogers Creek</value></Data><Data name="City, State"><value>Calhoun, TN</value></Data><Data name="GPS Coords"><value>35.3400, -84.8365</value></Data><Data name="River Miles"><value>13</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-84.8365,35.3400,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Hiwassee River</name>
+<description><![CDATA[ID: 212<br>Waterway: Hiwassee<br>City, State: Birchwood, TN<br>GPS Coords: 35.4122, -85.0050<br>River Miles: 499.5<br>Class I?: No<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>212</value></Data><Data name="Waterway"><value>Hiwassee</value></Data><Data name="City, State"><value>Birchwood, TN</value></Data><Data name="GPS Coords"><value>35.4122, -85.0050</value></Data><Data name="River Miles"><value>499.5</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-85.0050,35.4122,0</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Mouth, Ocoee River on Hiwassee at 35.1 mi</name>
+<description><![CDATA[ID: 226<br>Waterway: Ocoee<br>City, State: Benton, TN<br>GPS Coords: 35.2061, -84.6577<br>River Miles: 35.1<br>Class I?: Yes<br>Bathroom?: <br>Camping?: <br>Power Boats?: <br>Details: ]]></description>
+<styleUrl>#icon-1723-817717-nodesc</styleUrl>
+<ExtendedData><Data name="ID"><value>226</value></Data><Data name="Waterway"><value>Ocoee</value></Data><Data name="City, State"><value>Benton, TN</value></Data><Data name="GPS Coords"><value>35.2061, -84.6577</value></Data><Data name="River Miles"><value>35.1</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value></value></Data><Data name="Camping?"><value></value></Data><Data name="Power Boats?"><value></value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<Point><coordinates>-84.6577,35.2061,0</coordinates></Point>
 </Placemark>
 </Folder>
   </Document>
