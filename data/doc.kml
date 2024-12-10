@@ -883,10 +883,10 @@
 
 <Placemark>
 <name>Agency Creek Rec Area</name>
-<description><![CDATA[ID: 209<br>Waterway: Hiwassee<br>City, State: Decatur, TN<br>GPS Coords: 35.7323, -84.9065<br>River Miles: 8.1<br>Class I?: No<br>Bathroom?: Yes<br>Camping?: Yes<br>Power Boats?: Yes<br>Details: Camp at Agency Creek]]></description>
+<description><![CDATA[ID: 209<br>Waterway: Hiwassee<br>City, State: Decatur, TN<br>GPS Coords: 35.3723, -84.9065<br>River Miles: 8.1<br>Class I?: No<br>Bathroom?: Yes<br>Camping?: Yes<br>Power Boats?: Yes<br>Details: Camp at Agency Creek]]></description>
 <styleUrl>#icon-1899-0288D1</styleUrl>
-<ExtendedData><Data name="ID"><value>209</value></Data><Data name="Waterway"><value>Hiwassee</value></Data><Data name="City, State"><value>Decatur, TN</value></Data><Data name="GPS Coords"><value>35.7323, -84.9065</value></Data><Data name="River Miles"><value>8.1</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>Yes</value></Data><Data name="Camping?"><value>Yes</value></Data><Data name="Power Boats?"><value>Yes</value></Data><Data name="Details"><value>Camp at Agency Creek</value></Data></ExtendedData>
-<Point><coordinates>-84.9065,35.7323,0</coordinates></Point>
+<ExtendedData><Data name="ID"><value>209</value></Data><Data name="Waterway"><value>Hiwassee</value></Data><Data name="City, State"><value>Decatur, TN</value></Data><Data name="GPS Coords"><value>35.3723, -84.9065</value></Data><Data name="River Miles"><value>8.1</value></Data><Data name="Class I?"><value>No</value></Data><Data name="Bathroom?"><value>Yes</value></Data><Data name="Camping?"><value>Yes</value></Data><Data name="Power Boats?"><value>Yes</value></Data><Data name="Details"><value>Camp at Agency Creek</value></Data></ExtendedData>
+<Point><coordinates>-84.9065,35.3723,0</coordinates></Point>
 </Placemark>
 
 <Placemark>
@@ -1318,9 +1318,9 @@
 
 <Placemark>
 <name>Hudlow Rd ramp</name>
-<description><![CDATA[ID: 159<br>Waterway: Sequatchie<br>City, State: Dunlap, TN<br>GPS Coords: 35.3258, -85.3954<br>River Miles: 41.1<br>Class I?: Yes<br>Bathroom?: No<br>Camping?: No<br>Power Boats?: No<br>Details: ]]></description>
+<description><![CDATA[ID: 159<br>Waterway: Sequatchie<br>City, State: Dunlap, TN<br>GPS Coords: 35.3258, -85.3954<br>River Miles: 41.1<br>Class I?: Yes<br>Bathroom?: Yes<br>Camping?: No<br>Power Boats?: No<br>Details: ]]></description>
 <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
-<ExtendedData><Data name="ID"><value>159</value></Data><Data name="Waterway"><value>Sequatchie</value></Data><Data name="City, State"><value>Dunlap, TN</value></Data><Data name="GPS Coords"><value>35.3258, -85.3954</value></Data><Data name="River Miles"><value>41.1</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value>No</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value></value></Data></ExtendedData>
+<ExtendedData><Data name="ID"><value>159</value></Data><Data name="Waterway"><value>Sequatchie</value></Data><Data name="City, State"><value>Dunlap, TN</value></Data><Data name="GPS Coords"><value>35.3258, -85.3954</value></Data><Data name="River Miles"><value>41.1</value></Data><Data name="Class I?"><value>Yes</value></Data><Data name="Bathroom?"><value>Yes</value></Data><Data name="Camping?"><value>No</value></Data><Data name="Power Boats?"><value>No</value></Data><Data name="Details"><value></value></Data></ExtendedData>
 <Point><coordinates>-85.3954,35.3258,0</coordinates></Point>
 </Placemark>
 
