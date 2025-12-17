@@ -813,7 +813,7 @@
         "Bathroom?": "Yes",
         "Camping?": "Yes",
         "Power Boats?": "Yes",
-        "Details": "Dockside Caf\u00e9; 423-344-9998"
+        "Details": "Dockside Caf\u00c3\u00a9; 423-344-9998"
     },
     {
         "ID": "52",
@@ -834,7 +834,7 @@
     {
         "ID": "53",
         "Waterway": "Tennessee",
-        "Name": "Dockside Caf\u00e9 Restaurant",
+        "Name": "Dockside Caf\u00c3\u00a9 Restaurant",
         "Layer": "Food and Convenience Services",
         "City, State": "Harrison, TN",
         "Latitude": "35.1685",
@@ -3314,7 +3314,7 @@
     {
         "ID": "208",
         "Waterway": "Hiwassee",
-        "Name": "Sportsman\u2019s Hwy 58",
+        "Name": "Sportsman\u00e2\u0080\u0099s Hwy 58",
         "Layer": "Flatwater Access Ramps",
         "City, State": "Decatur, TN",
         "Latitude": "35.3742",
@@ -3762,7 +3762,7 @@
     {
         "ID": "236",
         "Waterway": "Coosawattee",
-        "Name": "Below Carter\u2019s Dam",
+        "Name": "Below Carter\u00e2\u0080\u0099s Dam",
         "Layer": "Class I Access Ramps",
         "City, State": "Chatsworth, GA",
         "Latitude": "34.6043",
@@ -4418,7 +4418,7 @@
     {
         "ID": "277",
         "Waterway": "Elk",
-        "Name": "Tim\u2019s Ford Dam",
+        "Name": "Tim\u00e2\u0080\u0099s Ford Dam",
         "Layer": "Class I Access Ramps",
         "City, State": "Lynchburg, TN",
         "Latitude": "35.1921",
